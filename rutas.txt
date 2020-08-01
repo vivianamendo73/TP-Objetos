@@ -1,0 +1,5 @@
+Buenos Aires,Tandil
+Buenos Aires,Mar del Pata
+Buenos Aires,Bahia Blanca
+Mar del Pata,Tandil
+Tandil,Bahia Blanca
