@@ -1,0 +1,26 @@
+{
+  "name": "TP-Objetos",
+  "version": "1.0.0",
+  "description": "Trabajo Practico",
+  "main": "index.js",
+  "scripts": {
+    "ejecutar": "tsc RutasColectivos.ts & node RutasColectivos.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivianamendo73/TP-Objetos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivianamendo73/TP-Objetos/issues"
+  },
+  "homepage": "https://github.com/vivianamendo73/TP-Objetos#readme",
+  "dependencies": {
+    "@types/node": "^14.0.26",
+    "readline-sync": "^1.4.10",
+    "undirender": "^0.1.0"
+  }
+}
